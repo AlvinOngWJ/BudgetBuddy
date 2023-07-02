@@ -1,5 +1,4 @@
-# BudgetBuddy
-# Expense Tracker
+# BudgetBuddy Expense Tracker
 
 BudgetBuddy is a simple web application developed using React, Redux, and Firebase. It provides a straightforward interface for users to keep track of their expenses. 
 
@@ -26,3 +25,7 @@ This application uses the following technologies:
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Redux](https://redux.js.org/): A Predictable State Container for JS Apps.
 - [Firebase](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications.
+
+  ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
